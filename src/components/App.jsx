@@ -14,8 +14,8 @@ const App = () => {
 };
 
 const Container = styled.div`
-  margin-top: 2%;
-  margin-bottom: 5%;
+  margin-top: 1%;
+  margin-bottom: 7%;
   margin-left: 32%;
   margin-right: 33%;
   position: absolute;
